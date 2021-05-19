@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **qProtect and Lineage-PixelOS**
 
 - Donations are welcome but not needed 
-**Monero (XMR): 43m38ycDyGs1U4GWsmkjmjYePtK7shMgvHSEqyxvE9H8GS4rgKhWKFnN36Bg26jKCcCYYDmJ6WVZmViqnGs14ELQ5agjQ5u**
+- - **Monero (XMR): 43m38ycDyGs1U4GWsmkjmjYePtK7shMgvHSEqyxvE9H8GS4rgKhWKFnN36Bg26jKCcCYYDmJ6WVZmViqnGs14ELQ5agjQ5u**
 - - **Bitcoin (BTC):**
 
 
